@@ -1,2 +1,2 @@
 # batch-rickroll
-A rickroll in the command line.
+Exactly what it sounds like.
